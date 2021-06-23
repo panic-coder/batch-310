@@ -1,2 +1,1 @@
-echo "Hello World"
-echo "I am  inside a program"
+echo "Welcome to Employee Wage Calculation"
