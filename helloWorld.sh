@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-echo "Welcome to Employee Wage Calculation"
+echo "Welcome to Employee Wage Calculation for present"
 
 isPresent=1;
 randomCheck=$((RANDOM%2));
